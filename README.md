@@ -85,14 +85,3 @@ The `Gender_Classification_SVM.ipynb` notebook covers:
 
 Both notebooks include sections for evaluating the performance of the classifiers using metrics such as accuracy, precision, recall, and F1-score. Visualizations are also provided to illustrate the classification results.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-Special thanks to the authors of the libraries and tools used in this project.
